@@ -1,10 +1,10 @@
-# Jimbo Game
+# Pixel art concept
 
 A Unity-based 2D game project featuring NPC interactions and tile-based level design.
 
 ## Project Overview
 
-This is a Unity game project called "Jimbo Game" developed by DefaultCompany. The project includes a compiled Windows executable along with game assets and graphics resources.
+This is a Unity game project called "Jimbo Game". The project includes a compiled Windows executable along with game assets and graphics resources.
 
 ## Project Structure
 
