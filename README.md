@@ -1,1 +1,1 @@
-Downlaod and run form de executable file, source code is not proivded
+Download and run from the executable file, source code is not proivded
